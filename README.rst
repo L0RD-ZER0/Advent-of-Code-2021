@@ -9,3 +9,4 @@ Solutions
 
 * Day-1:
    - `Problem-1  <https://github.com/L0RD-ZER0/Advent-of-Code-2021/blob/master/src/Day-1/Problem-1.js>`_
+   - `Problem-2  <https://github.com/L0RD-ZER0/Advent-of-Code-2021/blob/master/src/Day-1/Problem-2.js>`_
