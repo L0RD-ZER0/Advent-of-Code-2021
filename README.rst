@@ -17,3 +17,4 @@ Solutions
 
 * Day-3:
    - `Problem-1  <https://github.com/L0RD-ZER0/Advent-of-Code-2021/blob/master/src/Day-3/Problem-1.kts>`_
+   - `Problem-2  <https://github.com/L0RD-ZER0/Advent-of-Code-2021/blob/master/src/Day-3/Problem-2.kts>`_
