@@ -29,3 +29,4 @@ Solutions
 
 * Day-6:
    - `Problem-1  <https://github.com/L0RD-ZER0/Advent-of-Code-2021/blob/master/src/Day-6/Problem-1.py>`_
+   - `Problem-2  <https://github.com/L0RD-ZER0/Advent-of-Code-2021/blob/master/src/Day-6/Problem-2.py>`_
